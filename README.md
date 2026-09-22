@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902045.svg)](https://doi.org/10.5281/zenodo.22902045)
+
 # riemann-zeta-fft-verification
 Python code for blind FFT detection of nontrivial zeros of the Riemann zeta function from prime distribution.
 
@@ -9,7 +11,7 @@ This repository accompanies the preprint:
 
 > **Empirical Verification of the Riemann–von Mangoldt Explicit Formula via Fast Fourier Transform**
 > Stefka Georgieva, VPR Research, 2026.
-> DOI: [to be added after Zenodo upload]
+ DOI: [10.5281/zenodo.22902045](https://doi.org/10.5281/zenodo.22902045)
 
 ## Summary
 
