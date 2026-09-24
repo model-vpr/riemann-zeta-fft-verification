@@ -26,7 +26,7 @@ We also verify that the peak amplitudes follow the theoretical prediction
 
 $$A(\gamma) \propto \frac{1}{|\rho|} = \frac{1}{\sqrt{1/4 + \gamma^2}},$$
 
-with mean ratio **1.023** and standard deviation **0.156** across **78 matched zeros** (excluding the calibration point; see the preprint for details). Including the calibration point gives mean **1.022** and standard deviation **0.155**; the difference is in the fourth decimal place and does not affect any conclusion.
+with mean ratio **1.023** and standard deviation **0.156** across **77 matched zeros** (excluding the calibration point — the strongest peak, whose ratio is 1.000 by construction rather than by measurement). Including the calibration point (n = 78) gives mean **1.022** and standard deviation **0.155**; the difference is in the fourth decimal place and does not affect any conclusion. See the preprint, Section 3.2, for details.
 
 ## Files
 
@@ -48,16 +48,32 @@ Install:
 
 ```bash
 pip install numpy scipy matplotlib
+```
 
-
-## Requirements
-
-- Python 3.9+
-- `numpy`
-- `scipy`
-- `matplotlib` (only for plotting)
-
-Install:
+## Usage
 
 ```bash
-pip install numpy scipy matplotlib
+python blind_zeta_test.py
+python amplitude_vs_gamma.py
+```
+
+Both scripts run in under one second and use approximately 40 MB of memory at the default settings ($N = 5 \times 10^6$).
+
+## Citation
+
+If you use this code, please cite the accompanying preprint:
+
+```bibtex
+@misc{georgieva2026riemann,
+  author       = {Georgieva, Stefka},
+  title        = {Empirical Verification of the Riemann--von Mangoldt Explicit Formula via Fast Fourier Transform},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22902045},
+  url          = {https://doi.org/10.5281/zenodo.22902045}
+}
+```
+
+## License
+
+MIT
