@@ -33,10 +33,10 @@ with mean ratio **1.023** and standard deviation **0.156** across **77 matched z
 | File | Description |
 |---|---|
 | `blind_zeta_test.py` | Blind FFT detection of zeta zeros; no reference zeros used during detection. |
-| `amplitude_vs_gamma.py` | Compares detected peak amplitudes with the theoretical $C/\sqrt{1/4 + \gamma^2}$ prediction.
+| `amplitude_vs_gamma.py` | Compares detected peak amplitudes with the theoretical $C/\sqrt{1/4 + \gamma^2}$ prediction. Reports summary statistics including the calibration point (n = 78). |
+| `amplitude_vs_gamma_excluding_calibration_point.py` | Same analysis, but excludes the calibration point from the summary statistics (n = 77). |
 | `figures/blind_zeta_test.png` | Output plot: detected peaks vs. reference zeros. |
 | `figures/amplitude_vs_gamma.png` | Output plot: amplitude scaling analysis. |
-
 ## Requirements
 
 - Python 3.9+
