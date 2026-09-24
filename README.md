@@ -70,7 +70,7 @@ If you use this code, please cite the accompanying preprint:
   year         = {2026},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.22932353},
-  url          = (https://doi.org/10.5281/zenodo.22932353}
+  url          = {https://doi.org/10.5281/zenodo.22932353}
 }
 ```
 
