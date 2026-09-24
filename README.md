@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902045.svg)](https://doi.org/10.5281/zenodo.22932353)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22932353.svg)](https://doi.org/10.5281/zenodo.22932353)
 
 # Riemann Zeta FFT Verification
 
