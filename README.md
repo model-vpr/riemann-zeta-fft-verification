@@ -69,8 +69,8 @@ If you use this code, please cite the accompanying preprint:
   title        = {Empirical Verification of the Riemann--von Mangoldt Explicit Formula via Fast Fourier Transform},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22902045},
-  url          = {https://doi.org/10.5281/zenodo.22902045}
+  doi          = {10.5281/zenodo.22932353},
+  url          = (https://doi.org/10.5281/zenodo.22932353}
 }
 ```
 
