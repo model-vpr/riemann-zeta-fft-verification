@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902045.svg)](https://doi.org/10.5281/zenodo.22902045)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902045.svg)](https://doi.org/10.5281/zenodo.22932353)
 
 # Riemann Zeta FFT Verification
 
@@ -8,7 +8,7 @@ This repository accompanies the preprint:
 
 > **Empirical Verification of the Riemann–von Mangoldt Explicit Formula via Fast Fourier Transform**
 > Stefka Georgieva, VPR Research, 2026.
-> DOI: [10.5281/zenodo.22902045](https://doi.org/10.5281/zenodo.22902045)
+> DOI: [10.5281/zenodo.22932353](https://doi.org/10.5281/zenodo.22932353)
 
 ## Summary
 
